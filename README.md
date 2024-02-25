@@ -1,4 +1,4 @@
-# Node.js doanload link generator Telegram Bot
+# Node.js download link generator Telegram Bot
 
 This Node.js project is a Telegram bot developed using the Telegraf.js module.
 It serves as a learning resource for creating a simple Telegram bot that would
